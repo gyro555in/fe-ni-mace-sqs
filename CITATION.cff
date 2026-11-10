@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite the dataset and the associated paper."
+type: dataset
+title: "Fe-Ni MACE-sqs: model, DFT training data and analysis files"
+version: v1
+date-released: 2026-10-19
+doi: 10.5281/zenodo.23484911
+license: CC-BY-4.0
+url: "https://doi.org/10.5281/zenodo.23484911"
+authors:
+  - family-names: Ramakrishna
+    given-names: Kushal
+    orcid: "https://orcid.org/0000-0003-4211-2484"
+    affiliation: "Helmholtz-Zentrum Dresden-Rossendorf (HZDR)"
+  - family-names: Lokamani
+    given-names: Mani
+    orcid: "https://orcid.org/0000-0001-8679-5905"
+    affiliation: "Helmholtz-Zentrum Dresden-Rossendorf (HZDR)"
+  - family-names: Cangi
+    given-names: Attila
+    orcid: "https://orcid.org/0000-0001-9162-262X"
+    affiliation: "Helmholtz-Zentrum Dresden-Rossendorf (HZDR)"
+keywords:
+  - Fe-Ni
+  - MACE
+  - machine-learned interatomic potential
+  - DFT
+  - special quasi-random structures
+preferred-citation:
+  type: article
+  title: "Capabilities and Limitations of MACE Interatomic Potentials for Fe-Ni Alloys: A Systematic Benchmark"
+  journal: "Modelling and Simulation in Materials Science and Engineering"
+  year: 2026
+  authors:
+    - family-names: Ramakrishna
+      given-names: Kushal
+    - family-names: Lokamani
+      given-names: Mani
+    - family-names: Cangi
+      given-names: Attila
+  identifiers:
+    - type: other
+      value: "arXiv:2605.28395"
