@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23484911.svg)](https://doi.org/10.5281/zenodo.23484911)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.28395-b31b1b.svg)](https://arxiv.org/abs/2605.28395)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![HF Model](https://img.shields.io/badge/🤗%20Model-MACE--sqs--FeNi-yellow)](https://huggingface.co/gyro555in/MACE-sqs-FeNi)
+[![HF Dataset](https://img.shields.io/badge/🤗%20Dataset-fe--ni--sqs--dft-yellow)](https://huggingface.co/datasets/gyro555in/fe-ni-sqs-dft)
 
 Companion repository for the paper
 
