@@ -49,7 +49,7 @@ MD5 checksums are listed in [`checksums.md5`](checksums.md5).
 ## Getting the data
 
 ```bash
-git clone https://github.com/<your-username>/fe-ni-mace-sqs.git
+git clone https://github.com/gyro555in/fe-ni-mace-sqs.git
 cd fe-ni-mace-sqs
 
 # everything (about 1.6 GB)
